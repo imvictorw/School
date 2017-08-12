@@ -1,7 +1,7 @@
 #   Course: IT102 Section C
 #   Authors: Victor Woo
 #   Date: 21/11/2016
-#   Assignment: PP12
+#   Assignment: Opens a file and checks the file
 import sys
 
 def checkEmpty(file):
